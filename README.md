@@ -56,4 +56,5 @@ SimulationResult(
     Idaho -> Map(Trump -> 0.9593, Stein -> 7.0E-4, Johnson -> 0.0016, Clinton -> 0.0352, McMullin -> 0.0032),
     NewJersey -> Map(Trump -> 0.0647, Stein -> 1.0E-4, Clinton -> 0.9352)
   )
-)```
+)
+```
